@@ -1,0 +1,7 @@
+/* Global reset — handled by App.css */
+/* This file intentionally minimal to avoid conflicts */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
