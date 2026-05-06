@@ -9,8 +9,7 @@ export default function Toolbar({ questionCount, onAddQuestion, onSubmit, onRese
     <div className="toolbar">
       <div className="toolbar-left">
         <h1 className="toolbar-title">
-          <span className="toolbar-icon">📝</span>
-          Nested Question Builder
+          Nested Form Builder
         </h1>
         <div className="toolbar-badges">
           <span className="question-count">
